@@ -8,5 +8,5 @@ I'm a Python developer with experience on API integrations, and cron job automat
 - 🤔 I’m looking for help with ... CSS
 - 💬 Ask me about ... API requests
 - 📫 How to reach me: ... https://www.linkedin.com/in/santiago-torres-gallo-13b808186/
-- ⚡ Fun fact: ... My second biggest passion is sound engineering and guitar playing
+- ⚡ Fun fact: ... My second biggest passion is sound engineering and guitar playing!
 
